@@ -20,4 +20,4 @@ A simple web-based application to manage books using PHP and AJAX. Users can add
 1. Download and install [XAMPP](https://www.apachefriends.org/index.html).
 2. Place the project files in the `htdocs` directory.
 3. Start the Apache server from the XAMPP Control Panel.
-4. Access the app at `http://localhost/book-management-system/index.php`.
+4. Access the app at `http://localhost/Lab2/index.php`.
